@@ -1,0 +1,5 @@
+train: train/images
+val: valid/images
+
+nc: 12
+names: ['BirthPlace', 'Birthdate', 'Category', 'Department', 'DepartmentState', 'EndDate', 'Id', 'Name', 'Photo', 'Signature', 'StartDate', 'Surname']
